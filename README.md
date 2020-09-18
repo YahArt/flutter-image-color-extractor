@@ -1,2 +1,8 @@
-# flutter-image-color-extractor
-Little Sample Project for how to extract colors from an image
+# About this Project
+Sample application in order to show how to extract color information from an image file.
+
+![Title Image](./documentation_images/title_image.png)
+
+The sample image used for this project can be found [here](https://unsplash.com/photos/u_8Nyng8qeA)
+
+
